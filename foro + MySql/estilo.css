@@ -1,0 +1,61 @@
+
+
+body
+{
+	background-image: url("fondo.jpg");
+	text-align:center;
+}
+
+table {
+    border: 1px solid black;
+	border-collapse: collapse;
+	background-color: white;
+}
+#lista
+{
+	
+   
+}
+#mantencion_usuarios
+{
+	border:0px;
+}
+#modificar_usuario
+{
+	border: 0px solid black;
+}
+#foro
+{
+	background-color:#E0E6F8;
+	font: 150% sans-serif;
+}
+#color
+{
+	background-color:#E0E6F8;
+}
+#publicar
+{
+	font-size:20px;
+    font-family:Verdana,Helvetica;
+    font-weight:bold;
+    color:white;
+    background:#618AEB;
+    border:4px;
+    width:140px;
+    height:50px;
+}
+#altura
+{
+	height:50px;
+}
+#pallao
+{
+	text-align:right;
+}
+#index
+{
+	background-color:#add3ff;
+	border:1px;
+	border-radius: 10px;
+	
+}
